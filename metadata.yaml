@@ -20,6 +20,8 @@ description: ".\nThe Underground Railroad Records is an 1872 book by William Sti
   \ to freedom via the Underground Railroad. Still included his carefully compiled\
   \ and detailed documentation about those that he had helped escape into the pages\
   \ of The Underground Railroad Records.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15263#The-Underground-Railroad--13-A-Record-of-Facts-Authentic-Narratives-Letters--amp-c.-Narrating_
 gutenberg_bookshelf:
 - Children's History
 - African American Writers
