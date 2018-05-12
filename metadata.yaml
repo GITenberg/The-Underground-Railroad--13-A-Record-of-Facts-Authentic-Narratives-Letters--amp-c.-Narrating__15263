@@ -1,0 +1,49 @@
+_repo: The-Underground-Railroad--13-A-Record-of-Facts-Authentic-Narratives-Letters--amp-c.-Narrating__15263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Still, William
+    birthdate: 1821
+    deathdate: 1902
+    gutenberg_agent_id: '5956'
+    url: http://www.gutenberg.org/2009/agents/5956
+description: ".\nThe Underground Railroad Records is an 1872 book by William Still,\
+  \ who is known as the Father of the Underground Railroad. It is subtitled A record\
+  \ of facts, authentic narratives, letters, &c., narrating the hardships, hair-breadth\
+  \ escapes and death struggles of the slaves in their efforts for freedom, as related\
+  \ by themselves and others, or witnessed by the author; together with sketches of\
+  \ some of the largest stockholders, and most liberal aiders and advisers, of the\
+  \ road.\nThe book chronicles the stories and methods of some 649 slaves who escaped\
+  \ to freedom via the Underground Railroad. Still included his carefully compiled\
+  \ and detailed documentation about those that he had helped escape into the pages\
+  \ of The Underground Railroad Records.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's History
+- African American Writers
+- Slavery
+gutenberg_issued: '2005-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15263'
+  wikidata: Q7771382
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Antislavery movements -- United States -- History -- 19th century'
+- !lcsh 'Fugitive slaves -- United States -- History -- 19th century'
+- !lcsh 'Underground Railroad'
+- !lcsh 'Fugitive slaves -- United States -- Biography'
+- !lcsh 'Abolitionists -- United States -- Biography'
+title: "The Underground Railroad\r\nA Record of Facts, Authentic Narratives, Letters,\
+  \ &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the\
+  \ Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed\
+  \ by the Author."
+url: http://www.gutenberg.org/ebooks/15263
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Underground_Railroad_(book)
